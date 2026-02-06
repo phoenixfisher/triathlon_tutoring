@@ -11,7 +11,7 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Privacy()
+    public IActionResult LearningSuite()
     {
         return View();
     }
@@ -20,5 +20,12 @@ public class HomeController : Controller
     public IActionResult Error()
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+    }
+    
+    // Render TutorCalculator view
+    public IActionResult TutorCalculator()
+    {
+        ViewData["HourlyRate"] = 50;
+        return View();
     }
 }

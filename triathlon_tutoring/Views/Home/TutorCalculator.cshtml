@@ -1,0 +1,27 @@
+@{
+    ViewData["Title"] = "Coaching Calculator";
+    var rate = ViewData["HourlyRate"] ?? 50;
+}
+
+<h2>Coaching Cost Calculator</h2>
+
+<label for="hours">Hours needed:</label>
+<input id="hours" type="number" min="0" step="0.5" />
+
+<br /><br />
+
+<label for="rate">Rate per hour ($):</label>
+<input id="rate" type="text" value="@rate" readonly />
+
+<br /><br />
+
+<button id="calcBtn" type="button">Calculate Total</button>
+
+<br /><br />
+
+<label for="total">Total ($):</label>
+<input id="total" type="text" readonly />
+
+<p>
+    <a asp-controller="Home" asp-action="Index">Back to Home</a>
+</p>

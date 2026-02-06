@@ -21,9 +21,7 @@
 /Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/scopedcss/bundle/triathlon_tutoring.styles.css
 /Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/scopedcss/projectbundle/triathlon_tutoring.bundle.scp.css
-/Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/compressed/v2tosaaslv-{0}-lugek5hnai-lugek5hnai.gz
 /Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/compressed/bwo0ixe4sg-{0}-61n19gt1b8-61n19gt1b8.gz
-/Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/compressed/frhujmxbhx-{0}-fr7q2aak1r-fr7q2aak1r.gz
 /Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/compressed/q9vvre6t58-{0}-bqjiyaj88i-bqjiyaj88i.gz
 /Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/compressed/aigd9nbmtd-{0}-c2jlpeoesf-c2jlpeoesf.gz
 /Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/compressed/k2l745d0as-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -95,3 +93,6 @@
 /Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/triathlon_tutoring.pdb
 /Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/triathlon_tutoring.genruntimeconfig.cache
 /Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/ref/triathlon_tutoring.dll
+/Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/triathlon_tutoring.sourcelink.json
+/Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/compressed/v2tosaaslv-{0}-czi159w8vs-czi159w8vs.gz
+/Users/phoenixfisher/Documents/School/Major/IS/IS 413/RiderProjects/triathlon_tutoring/triathlon_tutoring/obj/Debug/net10.0/compressed/1gv4s9lxno-{0}-pz713ml3yp-pz713ml3yp.gz
