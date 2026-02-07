@@ -1,0 +1,19 @@
+# .NET build outputs
+**/bin/
+**/obj/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# macOS
+.DS_Store
+
+# User-specific / local
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log

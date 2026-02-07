@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("triathlon_tutoring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71e6683abe140ea1dde87f2237bf61e84f604688")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56e404056c49c261cd9560f01005a32e3607d8ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("triathlon_tutoring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("triathlon_tutoring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
